@@ -1,6 +1,6 @@
 # Minha Primeira Página
 
-![preview](./.github/preview.png)
+![preview](./.banner/banner.png)
 
 Projeto com meu conhecimento inicial.
 
