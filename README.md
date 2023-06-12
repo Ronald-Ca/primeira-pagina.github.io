@@ -1,10 +1,10 @@
 # Minha Primeira Página
 
-![preview](./.banner/banner.png)
+![preview](./banner/banner.png)
 
 Projeto com meu conhecimento inicial.
 
-[🔗 Clique aqui para acessar a página](https://ronald-ca.github.io/nlw-site-explorer/)
+[🔗 Clique aqui para acessar a página](https://ronald-ca.github.io/primeira-pagina.github.io/)
 
 ## 📌 Tecnologias
 
