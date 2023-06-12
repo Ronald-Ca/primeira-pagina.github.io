@@ -1,10 +1,8 @@
-# NLW eSports
-
-> Trilha Explorer
+# Minha Primeira Página
 
 ![preview](./.github/preview.png)
 
-Projeto construído do evento Next Level Week da Rocketseat.
+Projeto com meu conhecimento inicial.
 
 [🔗 Clique aqui para acessar a página](https://ronald-ca.github.io/nlw-site-explorer/)
 
